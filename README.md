@@ -1,11 +1,7 @@
 # Simple-custom-list 
 
 JavaScript & Bootstrap
-
-<!doctype html>
-<html>
 <head>
-<meta charset="UTF-8">
 <title>Seznam navideznih prijateljev</title>
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <script>
@@ -101,4 +97,3 @@ footer { text-align: center; } .copy-left { display: inline-block; -moz-transfor
     </div>
 </div><footer><span class="copy-left">©</span> 2015 Gorazd Krumpak</footer>
 </body>
-</html>
